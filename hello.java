@@ -1,2 +1,2 @@
-hello world
-hello spt
+Hello World
+Hello Spt
